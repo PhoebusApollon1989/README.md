@@ -54,4 +54,12 @@ Pantalla de gestión de productos: tabla con la lista de productos existentes y 
 Pantalla de reportes: filtros por fecha y categoría, con una tabla o gráfico que muestre el resumen de ventas del período seleccionado.
 
 
+README — Módulo 2
 
+Actualización del proyecto:
+Durante el módulo 2 se comenzará a desarrollar el prototipo del Gestor de Inventario para Pequeño Negocio. La aplicación estará enfocada en registrar productos, controlar las existencias y registrar ventas.
+
+Se aplicarán los conceptos aprendidos sobre desarrollo de aplicaciones móviles, GitHub y organización del proyecto. También se continuará definiendo la estructura de las pantallas y las funciones principales de la aplicación.
+
+Próximo paso:
+Desarrollar las primeras pantallas y comenzar a publicar los avances del proyecto en GitHub.
